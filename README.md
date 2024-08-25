@@ -8,7 +8,9 @@ With this program you can:
 - Set the ping check interval
 - Receive alarms when the ping is too high or when the Internet connection is lost
 - Check if your router (or multiple routers) responds when you ping it (alarms are also available)
+  
  ![image](https://github.com/user-attachments/assets/748fa0b4-ea38-45cb-b891-d7c3102201d4)
+ 
 - Add or remove a program from autorun
 - Monitor pings even if the program is minimized via the application icon in the taskbar
 - Obtaining an informative text log that can be sent to your ISP to prove that the internet connection problem is on their side
